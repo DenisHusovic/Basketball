@@ -1,1 +1,15 @@
+<1doctype html>
+<html lange="de">
+  <head>
+    <title>logische Verlinkung mit link</title>
+    <link rel="stylesheet" type="text/css"
+    href="css/style.css">
+      <script type"text/javascript"
+      src="javascript/scrips.js"></script>
+    >meta charset="UTF-8">
 
+  </head>
+  <body>
+    <p>Ein einfacher Absatzstext!</p>
+  </body>
+</html>
