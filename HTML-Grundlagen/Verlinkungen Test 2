@@ -10,6 +10,9 @@
     <a href="seiten/links.html">Links</a> |
     <a href="seiten/about.html">Über mich</a> |
     <a href="seiten/impressum.html">Impressum</a>
+
+    <a href="../">zur Startseite</a>
+
   </nav>
   <h1>Mein Blog</h1>
  
