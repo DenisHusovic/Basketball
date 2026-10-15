@@ -4,7 +4,7 @@
 		<title>Test zur Verlinkung</title>
   </head>
   <a
-    href=""Studiengänge an der Jade Hochschule<a>
+    href="https://www.jade-hs.de/studieren-weiterbilden/studiengaenge/"Studiengänge an der Jade Hochschule<a>
 <p>
 		<ul id="Studiengänge">
 			<li>href="https://www.jade-hs.de/studiengang/bankmanagement-versicherungsmanagement-bachelor-dual/"Bank- und Versicherungsmanagement B.A.<a></li>
